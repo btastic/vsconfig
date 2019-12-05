@@ -17,7 +17,7 @@
     "Microsoft.Net.Component.4.8.SDK",
     "Microsoft.Net.Component.4.7.2.TargetingPack",
     "Microsoft.Net.ComponentGroup.DevelopmentPrerequisites",
-    "Microsoft.VisualStudio.Component.TypeScript.3.6",
+    "Microsoft.VisualStudio.Component.TypeScript.3.7",
     "Microsoft.VisualStudio.Component.JavaScript.TypeScript",
     "Microsoft.VisualStudio.Component.JavaScript.Diagnostics",
     "Microsoft.Component.MSBuild",
